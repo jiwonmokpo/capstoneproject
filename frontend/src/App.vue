@@ -3,6 +3,7 @@
     <v-main>
       <HelloWorld/>
       sexy machine
+      <p>태민이가 첫 커밋합니다</p>
     </v-main>
   </v-app>
 </template>
