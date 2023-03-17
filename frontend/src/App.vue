@@ -2,7 +2,7 @@
   <v-app>
     <v-main>
       <HelloWorld/>
-      asdasdsadasdasdsa
+      sexy machine
     </v-main>
   </v-app>
 </template>
