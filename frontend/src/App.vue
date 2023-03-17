@@ -2,6 +2,7 @@
   <v-app>
     <v-main>
       <HelloWorld/>
+      asdasdsadasdasdsa
     </v-main>
   </v-app>
 </template>
